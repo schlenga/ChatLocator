@@ -11,7 +11,7 @@
 ## This is a little analysis of the WhatsApp history with my girlfriend.
 
 ### Analysis of Chat History
-In the notebook [ChatStat](blob/master/ChatStat.ipynb), I take a quick look at the temporal aspect of our chats. 
+In the notebook [ChatStat](ChatStat.ipynb), I take a quick look at the temporal aspect of our chats. 
 
 Here's the cumulative sum of messages sent *by date*:
 
@@ -29,7 +29,7 @@ Let's also check out how many messages we sent (in total) per *day of the week*,
 ![Messages by Day](DailyPlot.png)
 
 ### Combination with Google Location
-In the second notebook, [MapChat](blob/master/MapChat.ipynb), I combine these data with my Google location history and plot a heatmap where I chatted with my girlfriend. Here's a screen shot:
+In the second notebook, [MapChat](MapChat.ipynb), I combine these data with my Google location history and plot a heatmap where I chatted with my girlfriend. Here's a screen shot:
 
 ![Screen Shot of the Heatmap-Map](SampleScreenshot.png)
 
