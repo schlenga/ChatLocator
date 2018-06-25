@@ -13,15 +13,17 @@
 ### Analysis of Chat History
 In the notebook [ChatStat](ChatStat.ipynb), I take a quick look at the temporal aspect of our chats. 
 
-Here's the cumulative sum of messages sent *by date*, maybe you can guess when we started dating:
+Here's the cumulative sum of messages sent *by date*:
 
-![Cumulative Sum of Messages](SumOfMessages.png)
+![Cumulative Sum of Messages](SumOfMessages.png "Can you guess when we started dating?")
 
 ---------
 
 But at what *time of the day* did we chat? Who sent whom when how many messages? Here's the plot:
 
 ![Messages by Time](ClockPlot.png)
+
+----------
 
 Let's also check out how many messages we sent (in total) per *day of the week*, separated into messages I *received* and messages I *sent*:
 
