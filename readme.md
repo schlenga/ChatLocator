@@ -33,7 +33,7 @@ Let's also check out how many messages we sent (in total) per *day of the week*,
 
 ![Messages by Day](DailyPlot.png "Hooray for weekends")
 
-There's a noticable drop in messages on Saturdays -- we had a long distance relationshipt for quite a while and often only saw each other on the weekends. Friday and Sunday being travel days meant that only the Saturdays were spent together completely.
+There's a noticable drop in messages on Saturdays -- we had a long distance relationship for quite a while and often only saw each other on the weekends. Friday and Sunday being travel days meant that only the Saturdays were spent together completely.
 
 ---------
 
